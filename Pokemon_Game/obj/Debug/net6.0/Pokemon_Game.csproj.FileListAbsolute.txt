@@ -1,0 +1,15 @@
+C:\Users\andre\OneDrive\Documents\Andrewbandrew05.github.io-main\Andrewbandrew05.github.io-main\C#\Pokemon Game\Pokemon_Game\bin\Debug\net6.0\Pokemon_Game.exe
+C:\Users\andre\OneDrive\Documents\Andrewbandrew05.github.io-main\Andrewbandrew05.github.io-main\C#\Pokemon Game\Pokemon_Game\bin\Debug\net6.0\Pokemon_Game.deps.json
+C:\Users\andre\OneDrive\Documents\Andrewbandrew05.github.io-main\Andrewbandrew05.github.io-main\C#\Pokemon Game\Pokemon_Game\bin\Debug\net6.0\Pokemon_Game.runtimeconfig.json
+C:\Users\andre\OneDrive\Documents\Andrewbandrew05.github.io-main\Andrewbandrew05.github.io-main\C#\Pokemon Game\Pokemon_Game\bin\Debug\net6.0\Pokemon_Game.dll
+C:\Users\andre\OneDrive\Documents\Andrewbandrew05.github.io-main\Andrewbandrew05.github.io-main\C#\Pokemon Game\Pokemon_Game\bin\Debug\net6.0\ref\Pokemon_Game.dll
+C:\Users\andre\OneDrive\Documents\Andrewbandrew05.github.io-main\Andrewbandrew05.github.io-main\C#\Pokemon Game\Pokemon_Game\bin\Debug\net6.0\Pokemon_Game.pdb
+C:\Users\andre\OneDrive\Documents\Andrewbandrew05.github.io-main\Andrewbandrew05.github.io-main\C#\Pokemon Game\Pokemon_Game\obj\Debug\net6.0\Pokemon_Game.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Documents\Andrewbandrew05.github.io-main\Andrewbandrew05.github.io-main\C#\Pokemon Game\Pokemon_Game\obj\Debug\net6.0\Pokemon_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Documents\Andrewbandrew05.github.io-main\Andrewbandrew05.github.io-main\C#\Pokemon Game\Pokemon_Game\obj\Debug\net6.0\Pokemon_Game.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Documents\Andrewbandrew05.github.io-main\Andrewbandrew05.github.io-main\C#\Pokemon Game\Pokemon_Game\obj\Debug\net6.0\Pokemon_Game.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Documents\Andrewbandrew05.github.io-main\Andrewbandrew05.github.io-main\C#\Pokemon Game\Pokemon_Game\obj\Debug\net6.0\Pokemon_Game.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Documents\Andrewbandrew05.github.io-main\Andrewbandrew05.github.io-main\C#\Pokemon Game\Pokemon_Game\obj\Debug\net6.0\Pokemon_Game.dll
+C:\Users\andre\OneDrive\Documents\Andrewbandrew05.github.io-main\Andrewbandrew05.github.io-main\C#\Pokemon Game\Pokemon_Game\obj\Debug\net6.0\ref\Pokemon_Game.dll
+C:\Users\andre\OneDrive\Documents\Andrewbandrew05.github.io-main\Andrewbandrew05.github.io-main\C#\Pokemon Game\Pokemon_Game\obj\Debug\net6.0\Pokemon_Game.pdb
+C:\Users\andre\OneDrive\Documents\Andrewbandrew05.github.io-main\Andrewbandrew05.github.io-main\C#\Pokemon Game\Pokemon_Game\obj\Debug\net6.0\Pokemon_Game.genruntimeconfig.cache
